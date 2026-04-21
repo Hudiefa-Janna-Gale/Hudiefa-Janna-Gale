@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hudeifa Mohamud Jangale</h1>
-<h3 align="center">Full Stack Developer | Frontend & Backend Developer | Problem Solver</h3>
+<h3 align="center">Frontend Developer | Building Clean & Modern Web Experiences</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+and+Responsive+Web+Apps;Always+Learning+and+Growing" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hudiefa-Janna-Gale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -7,59 +11,64 @@
 
 <p align="center">
   <a href="https://github.com/Hudiefa-Janna-Gale">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:hudeifa609@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.dhigaalplatform.com/blogs">
-    <img src="https://img.shields.io/badge/Blog-Dhigaal%20Platform-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog" />
+  <a href="https://www.dhigaalplatform.com/stories">
+    <img src="https://img.shields.io/badge/Stories-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Stories" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-- 🔭 I’m currently working on **E-Learning Platform**
-- 🌱 I’m currently learning **ASP.NET**
-- 💡 I enjoy building **modern full stack web applications**
-- 👨‍💻 My projects are available on my GitHub  
-- 📝 I regularly write articles on **Dhigaal Platform**
-- 💬 Ask me about **React, Next.js, Node.js, Spring Boot, PostgreSQL, MongoDB, and modern web development**
+I’m Hudeifa Mohamud Jangale, a passionate frontend developer focused on building clean, responsive, and user-friendly web applications. I enjoy turning ideas into modern digital experiences using today’s best frontend technologies.
+
+I love creating interfaces that are not only beautiful but also practical, fast, and easy to use. My goal is to keep growing as a developer while building projects that solve real problems.
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Currently working on **E-Learning Platform**
+- 🌱 Currently learning and improving my frontend development skills
+- 💬 Ask me about **React, Next.js, TypeScript, JavaScript, Tailwind CSS, and modern UI development**
+- 📝 I regularly write on **[Dhigaal Stories](https://www.dhigaalplatform.com/stories)**
 - 📫 Reach me at **hudeifa609@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+<p align="center">
+  <a href="mailto:hudeifa609@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
   </a>
-  <a href="mailto:hudeifa609@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a href="https://github.com/Hudiefa-Janna-Gale">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
-  <a href="https://github.com/Hudiefa-Janna-Gale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <a href="https://www.dhigaalplatform.com/stories">
+    <img src="https://img.shields.io/badge/Visit%20My%20Stories-0e75b6?style=for-the-badge" alt="stories" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,java,spring,cs,dotnet,python,mongodb,postgres,docker,git,figma,flutter,azure,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,figma,git,github,postman,flutter,java,python&perline=9" />
 </p>
 
 ---
 
-## 📌 Featured Skills
+## 📌 What I Work With
 
 ```txt
-Frontend   : React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Sass
-Backend    : Node.js, Express.js, Spring Boot, ASP.NET
-Database   : PostgreSQL, MongoDB
-Tools      : Git, Docker, Postman, Figma, Azure
-Languages  : JavaScript, TypeScript, Java, C#, Python
+Frontend      : React.js, Next.js, JavaScript, TypeScript
+Styling       : Tailwind CSS, Bootstrap, Sass
+Tools         : Git, GitHub, Postman, Figma
+Other Skills  : Flutter, Java, Python
