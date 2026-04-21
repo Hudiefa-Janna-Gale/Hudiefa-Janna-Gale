@@ -1,13 +1,9 @@
+<p align="center">
+  <img src="./banner.png" alt="Hudeifa Mohamud Jangale Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hudeifa Mohamud Jangale</h1>
 <h3 align="center">Frontend Developer | Building Clean & Modern Web Experiences</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+and+Responsive+Web+Apps;Always+Learning+and+Growing" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hudiefa-Janna-Gale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
 
 <p align="center">
   <a href="https://github.com/Hudiefa-Janna-Gale">
@@ -17,31 +13,35 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.dhigaalplatform.com/stories">
-    <img src="https://img.shields.io/badge/Stories-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Stories" />
+    <img src="https://img.shields.io/badge/Dhigaal%20Platform-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Dhigaal Platform" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hudiefa-Janna-Gale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-I’m Hudeifa Mohamud Jangale, a passionate frontend developer focused on building clean, responsive, and user-friendly web applications. I enjoy turning ideas into modern digital experiences using today’s best frontend technologies.
+I’m **Hudeifa Mohamud Jangale**, a passionate **Frontend Developer** who enjoys building clean, responsive, and modern web applications.
 
-I love creating interfaces that are not only beautiful but also practical, fast, and easy to use. My goal is to keep growing as a developer while building projects that solve real problems.
+I love transforming ideas into user-friendly digital experiences with a strong focus on design, usability, and performance. My goal is to keep growing as a developer while creating products that are both meaningful and visually polished.
 
 ---
 
 ## 🚀 Current Focus
 
 - 🔭 Currently working on **E-Learning Platform**
-- 🌱 Currently learning and improving my frontend development skills
+- 🌱 Continuously improving my **frontend development skills**
 - 💬 Ask me about **React, Next.js, TypeScript, JavaScript, Tailwind CSS, and modern UI development**
-- 📝 I regularly write on **[Dhigaal Stories](https://www.dhigaalplatform.com/stories)**
+- 🌐 I built **[Dhigaal Platform](https://www.dhigaalplatform.com/stories)**
 - 📫 Reach me at **hudeifa609@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="mailto:hudeifa609@gmail.com">
@@ -51,7 +51,7 @@ I love creating interfaces that are not only beautiful but also practical, fast,
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
   </a>
   <a href="https://www.dhigaalplatform.com/stories">
-    <img src="https://img.shields.io/badge/Visit%20My%20Stories-0e75b6?style=for-the-badge" alt="stories" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
   </a>
 </p>
 
@@ -69,6 +69,6 @@ I love creating interfaces that are not only beautiful but also practical, fast,
 
 ```txt
 Frontend      : React.js, Next.js, JavaScript, TypeScript
-Styling       : Tailwind CSS, Bootstrap, Sass
+Styling       : Tailwind CSS, Bootstrap, Sass, CSS3
 Tools         : Git, GitHub, Postman, Figma
 Other Skills  : Flutter, Java, Python
