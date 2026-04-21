@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hudiefa-Janna-Gale](https://github.com/Hudiefa-Janna-Gale)
 
-- 📝 I regularly write articles on [dhigaalplatform.com/blogs](dhigaalplatform.com/blogs)
+- 📝 I regularly write articles on [dhigaalplatform.com/blogs](www.dhigaalplatform.com)
 
 - 💬 Ask me about **React , NextJs , NodeJs , Spring Boot and e.t.c**
 
