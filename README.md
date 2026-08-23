@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./jannagale.png" alt="Hudeifa Mohamud Jangale Banner" width="100%" />
+  <img src="./jannagale.png" alt="JANNAGALE" width="300" />
 </p>
 
 <p align="center">
@@ -85,15 +85,15 @@ Creative Technology   : Video Editing, Camera, Drone, Visual Storytelling
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,sass,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,sass,figma&perline=10" alt="Frontend and UI Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,git,github,postman,python,java&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,git,github,postman,python,java&perline=10" alt="Backend and Development Tools" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=flutter&perline=10" alt="Flutter" />
 </p>
 
 ---
