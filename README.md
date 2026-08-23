@@ -1,12 +1,6 @@
-
-<h1>
-     _   _    _   _ _   _    _    ____    _    _     _____
-    | | / \  | \ | | \ | |  / \  / ___|  / \  | |   | ____|
- _  | |/ _ \ |  \| |  \| | / _ \| |  _  / _ \ | |   |  _|
-| |_| / ___ \| |\  | |\  |/ ___ \ |_| |/ ___ \| |___| |___
- \___/_/   \_\_| \_|_| \_/_/   \_\____/_/   \_\_____|_____|
-
-</h1>
+<p align="center">
+  <img src="./jannagale.png" alt="Hudeifa Mohamud Jangale Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="./banner.png" alt="Hudeifa Mohamud Jangale Banner" width="100%" />
