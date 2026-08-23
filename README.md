@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./jannagale.png" alt="JANNAGALE" width="360" />
+  <img src="./jannagale.png" alt="JANNAGALE" width="500" />
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Hudeifa Mohamud Jangale Banner" width="50%" />
+  <img src="./banner.png" alt="Hudeifa Mohamud Jangale Banner" width="70%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hudeifa Mohamud Jangale</h1>
